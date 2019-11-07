@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.705
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "单链表建立、查找、求长度", "单链表建立、查找、求长度\单链表建立、查找、求长度.vcxproj", "{F04F21E2-46E9-4C87-B1A5-3573E09C9B9C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F04F21E2-46E9-4C87-B1A5-3573E09C9B9C}.Debug|x64.ActiveCfg = Debug|x64
+		{F04F21E2-46E9-4C87-B1A5-3573E09C9B9C}.Debug|x64.Build.0 = Debug|x64
+		{F04F21E2-46E9-4C87-B1A5-3573E09C9B9C}.Debug|x86.ActiveCfg = Debug|Win32
+		{F04F21E2-46E9-4C87-B1A5-3573E09C9B9C}.Debug|x86.Build.0 = Debug|Win32
+		{F04F21E2-46E9-4C87-B1A5-3573E09C9B9C}.Release|x64.ActiveCfg = Release|x64
+		{F04F21E2-46E9-4C87-B1A5-3573E09C9B9C}.Release|x64.Build.0 = Release|x64
+		{F04F21E2-46E9-4C87-B1A5-3573E09C9B9C}.Release|x86.ActiveCfg = Release|Win32
+		{F04F21E2-46E9-4C87-B1A5-3573E09C9B9C}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {32607CB0-509E-446C-BB5B-CF69885CCC10}
+	EndGlobalSection
+EndGlobal
