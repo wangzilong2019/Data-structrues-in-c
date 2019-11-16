@@ -6,6 +6,7 @@ typedef struct
 	char elem[ Stack_Size];
 	int top;
 }SeqStack;
+/*åˆå§‹åŒ–é¡ºåºæ ˆ*/
 void InitSeqStack(SeqStack *S)
 {
 	S->top = -1;
@@ -13,7 +14,7 @@ void InitSeqStack(SeqStack *S)
 void Push(SeqStack *S, char x)
 {
 	if (S->top == Stack_Size - 1)
-		printf("\nÕ»ÒÑÂú");
+		printf("\næ ˆå·²æ»¡");
 	else
 	{
 		S->top++;
@@ -23,7 +24,7 @@ void Push(SeqStack *S, char x)
 char* Pop(SeqStack *S, char *x)
 {
 	if (S->top == -1)
-		printf("\nÕ»ÒÑ¿Õ");
+		printf("\næ ˆå·²ç©º");
 	else
 	{
 		*x = S->elem[S->top];
@@ -38,7 +39,7 @@ void Ishuiwen()
 	char ch,*temp;
 	S = (SeqStack*)malloc(sizeof(SeqStack));
 	InitSeqStack(S);
-	printf("ÇëÊäÈë×Ö·ûĞòÁĞ£º\n");
+	printf("è¯·è¾“å…¥å­—ç¬¦åºåˆ—ï¼š\n");
 	ch = getchar();
 	while (ch != '&')
 	{
