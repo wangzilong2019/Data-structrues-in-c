@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.705
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "邻接表存储图的深度和广度遍历", "邻接表存储图的深度和广度遍历\邻接表存储图的深度和广度遍历.vcxproj", "{19248F2A-0101-4BCB-9B95-187547AA16A2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{19248F2A-0101-4BCB-9B95-187547AA16A2}.Debug|x64.ActiveCfg = Debug|x64
+		{19248F2A-0101-4BCB-9B95-187547AA16A2}.Debug|x64.Build.0 = Debug|x64
+		{19248F2A-0101-4BCB-9B95-187547AA16A2}.Debug|x86.ActiveCfg = Debug|Win32
+		{19248F2A-0101-4BCB-9B95-187547AA16A2}.Debug|x86.Build.0 = Debug|Win32
+		{19248F2A-0101-4BCB-9B95-187547AA16A2}.Release|x64.ActiveCfg = Release|x64
+		{19248F2A-0101-4BCB-9B95-187547AA16A2}.Release|x64.Build.0 = Release|x64
+		{19248F2A-0101-4BCB-9B95-187547AA16A2}.Release|x86.ActiveCfg = Release|Win32
+		{19248F2A-0101-4BCB-9B95-187547AA16A2}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B54ADFCF-24D6-408D-B31E-D54A1FD3640B}
+	EndGlobalSection
+EndGlobal
